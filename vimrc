@@ -1,0 +1,10 @@
+syntax on
+set number
+set hlsearch
+set laststatus=2
+set ruler
+set wildmenu
+set title
+set foldmethod=indent
+set history=1000
+set visualbell
